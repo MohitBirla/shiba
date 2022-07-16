@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shibatoken/static/css/main.4c8e9717.css",
+    "main.js": "/shibatoken/static/js/main.3ca2c747.js",
+    "index.html": "/shibatoken/index.html",
+    "main.4c8e9717.css.map": "/shibatoken/static/css/main.4c8e9717.css.map",
+    "main.3ca2c747.js.map": "/shibatoken/static/js/main.3ca2c747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8e9717.css",
+    "static/js/main.3ca2c747.js"
+  ]
+}
